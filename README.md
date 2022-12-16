@@ -10,3 +10,11 @@ Optical character recognition (OCR) tools such as [Tesseract](https://github.com
 * [Introduction to the Valor Ecclesiasticus](https://projectmirador.org/embed/?iiif-content=https://miiify.rocks/manifest/intro_valor_ecclesiasticus)
 
 * [Diamond Jubilee of the Metropolitan Railway](https://projectmirador.org/embed/?iiif-content=https://miiify.rocks/manifest/diamond_jubilee_of_the_metro)
+
+## Contribute
+
+Contributions are welcome!
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
