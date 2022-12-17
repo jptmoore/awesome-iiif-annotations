@@ -11,6 +11,8 @@ Optical character recognition (OCR) tools such as [Tesseract](https://github.com
 
 * [Diamond Jubilee of the Metropolitan Railway](https://projectmirador.org/embed/?iiif-content=https://miiify.rocks/manifest/diamond_jubilee_of_the_metro)
 
+* [The works of the British poets](https://projectmirador.org/embed/?iiif-content=https://miiify.rocks/manifest/british_poets_1759_1834)
+
 ## Contribute
 
 Contributions are welcome!
