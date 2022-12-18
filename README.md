@@ -13,6 +13,8 @@ Optical character recognition (OCR) tools such as [Tesseract](https://github.com
 
 * [The works of the British poets](https://projectmirador.org/embed/?iiif-content=https://miiify.rocks/manifest/british_poets_1759_1834)
 
+* [Rustic walking routes from within the twelve-mile radius of Charing Cross](https://projectmirador.org/embed/?iiif-content=https://miiify.rocks/manifest/rustic_walking_routes)
+
 ## Contribute
 
 Contributions are welcome!
